@@ -1,0 +1,89 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "HTML is easy",
+      "date": "2019-05-30T17:30:31.098Z",
+      "important": true,
+      "dateUpdated": "2020-07-27T10:00:38.952Z"
+    },
+    {
+      "id": 2,
+      "content": "Browser can execute only JavaScript",
+      "date": "2019-05-30T18:39:34.091Z",
+      "important": true,
+      "dateUpdated": "2020-07-27T16:14:17.558Z"
+    },
+    {
+      "id": 3,
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "date": "2019-05-30T19:20:14.298Z",
+      "important": true,
+      "dateUpdated": "2020-07-27T08:36:35.373Z"
+    },
+    {
+      "content": "This is a note",
+      "date": "2020-07-27T07:47:11.490Z",
+      "important": false,
+      "id": 4
+    },
+    {
+      "content": "Another one",
+      "date": "2020-07-27T07:48:18.820Z",
+      "important": true,
+      "id": 5,
+      "dateUpdated": "2020-07-27T09:53:21.537Z"
+    },
+    {
+      "content": "Arsenal",
+      "date": "2020-07-27T07:49:02.257Z",
+      "important": false,
+      "id": 6
+    },
+    {
+      "content": "Chelsea",
+      "date": "2020-07-27T07:49:13.395Z",
+      "important": true,
+      "id": 7
+    },
+    {
+      "content": "United",
+      "date": "2020-07-27T08:10:32.600Z",
+      "important": true,
+      "id": 8
+    },
+    {
+      "content": "Brighton",
+      "date": "2020-07-27T10:05:56.543Z",
+      "important": true,
+      "id": 9,
+      "dateUpdated": "2020-07-27T10:06:05.377Z"
+    },
+    {
+      "content": "Watford",
+      "date": "2020-07-27T13:45:51.041Z",
+      "important": false,
+      "id": 10,
+      "dateUpdated": "2020-07-27T13:45:52.896Z"
+    },
+    {
+      "content": "Sheffield",
+      "date": "2020-07-27T13:46:01.514Z",
+      "important": false,
+      "id": 11,
+      "dateUpdated": "2020-07-27T13:47:39.886Z"
+    },
+    {
+      "content": "I should start making a delete feature soon",
+      "date": "2020-07-29T14:56:00.947Z",
+      "important": true,
+      "id": 12
+    },
+    {
+      "content": "'",
+      "date": "2020-07-29T14:57:17.262Z",
+      "important": true,
+      "id": 13
+    }
+  ]
+}
